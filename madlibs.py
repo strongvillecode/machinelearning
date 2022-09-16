@@ -2,7 +2,7 @@
 
 # string concatenation (aka how to put strings together)
 # suppose we want to create a string that says "subscribe to ___"
-youtuber = "" #some string variable
+youtuber = "strongvillecode" #some string variable
 
 # a few ways to do this
 print("subscribe to " + youtuber)
